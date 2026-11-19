@@ -54,8 +54,8 @@ xattr -cr "/Applications/System Prompt.app"
 
 存档和设置保存在本机，删除游戏不会删掉它们：
 
-- Windows：`%USERPROFILE%\AppData\LocalLow\<公司名>\System Prompt`
-- macOS：`~/Library/Application Support/<Bundle ID>`
+- Windows：`%USERPROFILE%\AppData\LocalLow\System Prompt\System Prompt`
+- macOS：`~/Library/Application Support/com.systemprompt.game`
 
 ## 署名与授权
 
